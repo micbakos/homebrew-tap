@@ -1,8 +1,8 @@
 class ReleaseNotes < Formula
   desc "An automated script that compiles a list of release notes taken from pull requests and linking them with an issue tracker."
   homepage "https://github.com/micbakos/ReleaseNotes"
-  url "https://github.com/micbakos/ReleaseNotes/archive/v1.1.1.tar.gz"
-  sha256 "84b5c7fce06139d899e87dc43bb78315b6e0999785a2643aee79a8dcaaad2cd6"
+  url "https://github.com/micbakos/ReleaseNotes/archive/v1.2.0.tar.gz"
+  sha256 "29d3cfcf22642ba4594e47fb9fab201a8d9bed1350626e17b1c2f3aad5984a3d"
 
   depends_on "gradle"
 
